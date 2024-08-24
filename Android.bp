@@ -519,6 +519,6 @@ install_symlink {
 install_symlink {
 	name: "libq3dtools_adreno_libq3dtools_adreno_symlink64",
 	soc_specific: true,
-	installed_location: "lib/libq3dtools_adreno.so",
+	installed_location: "lib64/libq3dtools_adreno.so",
 	symlink_target: "/vendor/lib64/egl/libq3dtools_adreno.so",
 }
