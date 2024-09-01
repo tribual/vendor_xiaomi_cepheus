@@ -1068,7 +1068,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     pasrservice \
     PowerOffAlarm \
-    com.qualcomm.qti.gpudrivers.msmnile.api30 \
     HotwordEnrollmentOKGoogleHEXAGON \
     HotwordEnrollmentXGoogleHEXAGON \
     MotoSignatureApp \
